@@ -5,9 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7aa2f7,100:bb9af7&height=200&section=header&text=EZzer0&fontSize=48&fontColor=F8FAFC&animation=fadeIn" width="100%"/>
 </a>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Full-Stack+Developer+%7C+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;Building+Modern+Web+Apps+%7C+%E6%9E%84%E5%BB%BA%E7%8E%B0%E4%BB%A3Web%E5%BA%94%E7%94%A8;Exploring+AI+%26+ML+%7C+%E6%8E%A2%E7%B4%A2%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -83,9 +80,7 @@
 ---
 
 <!-- FOOTER BANNER -->
-<a href="https://github.com/EZzer0">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:0d1117&height=100&section=footer&text=EZzer0&fontSize=24&fontColor=F8FAFC&animation=fadeIn" width="100%"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:0d1117&height=100&section=footer&text=EZzer0&fontSize=24&fontColor=F8FAFC&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
