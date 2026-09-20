@@ -80,39 +80,6 @@
 
 ---
 
-## &#x1f680; GitHub Stats / GitHub &#x7EDF;&#x8BA1;
-
-<br>
-
-<div align="center">
-
-<!-- STATS CARD -->
-<a href="https://github.com/EZzer0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EZzer0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7aa2f7&include_all_commits=true&count_private=true" />
-</a>
-
-<!-- TOP LANGUAGES -->
-<a href="https://github.com/EZzer0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZzer0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&langs_count=8" />
-</a>
-
-</div>
-
-<br>
-
-<!-- STREAK STATS -->
-<div align="center">
-
-<a href="https://github.com/EZzer0">
-  <img height="170em" src="https://streak-stats.demolab.com?user=EZzer0&theme=tokyonight&hide_border=true&background=0d1117&stroke=7aa2f7&ring=bb9af7&fire=ff75a0&currStreakLabel=7dcfff&sideLabels=c0caf5" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<br>
-
----
-
 <!-- FOOTER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:0d1117&height=120&section=footer&text=EZzer0&fontSize=24&fontColor=F8FAFC&animation=fadeIn&fontAlignY=40" width="100%"/>
 
