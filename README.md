@@ -78,3 +78,5 @@
 <br>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:0d1117&height=100&section=footer&text=EZzer0&fontSize=24&fontColor=F8FAFC&animation=fadeIn" width="100%"/>
